@@ -1,0 +1,13 @@
+Caitlin Dugdale vom Massachusetts General Hospital in Boston und ihre Kollegen untersuchten PCR-Testergebnisse von etwa 15.000 Menschen, die COVID-19-Symptome zeigten oder aus anderen Gründen vermutet wurden, dass sie mit SARS-CoV-2 infiziert sind. Fast 2.700 Personen wurden negativ getestet und ließen innerhalb von zwei Wochen einen zweiten PCR-Test durchführen.
+
+Von denjenigen, die einen zweiten Test erhielten, wurden 60 – oder 2,2 % – positiv getestet. Bei 60 % dieser Personen wurde der erste Test entweder einen Tag oder weniger vor dem Auftreten der Symptome oder mehr als sieben Tage danach durchgeführt, was darauf hindeutet, dass der PCR-Test bei Personen, die früh oder spät im Verlauf der Infektion getestet wurden, höchstwahrscheinlich ein falsch negatives Ergebnis liefert.
+
+Menschen mit COVID-19-Symptomen und einem negativen Testergebnis sollten erneut getestet werden, insbesondere in Gebieten, in denen das Virus weit verbreitet ist, sagen die Forscher.
+
+Eine weitreichende Studie zur Übertragung von SARS-CoV-2 in der chinesischen Provinz Hunan ergab, dass die Begegnungen, die das Coronavirus am wahrscheinlichsten verbreiten, zwischen Mitgliedern desselben Haushalts waren.
+
+Kaiyuan Sun von den National Institutes of Health in Bethesda, Maryland, Hongjie Yu von der Fudan-Universität in Shanghai, China, und ihre Kollegen analysierten Daten von 1.178 Menschen in Hunan, die mit SARS-CoV-2 infiziert waren, und von mehr als 15.000 engen Kontakten dazu infizierte Menschen. Das Team stellte fest, dass Kontakte zwischen zusammenlebenden Menschen das größte Übertragungsrisiko darstellten, gefolgt von Kontakten zwischen Mitgliedern einer Großfamilie. Bei sozialen Kontakten und gemeinschaftlichen Begegnungen, beispielsweise in öffentlichen Verkehrsmitteln, war das Übertragungsrisiko noch geringer. Das Team stellte fest, dass jeder zusätzliche Tag des Kontakts das Übertragungsrisiko um 10 % erhöhte.
+
+Die Analyse legt nahe, dass der Lockdown in Hunan tatsächlich das Risiko einer Virusausbreitung innerhalb von Haushalten erhöhte, deren Mitglieder während des Lockdowns mehr Zeit als normal zusammen zu Hause verbrachten. Aber die soziale und gemeinschaftliche Übertragung ging im gleichen Zeitraum zurück.
+
+Die Goldstandardmethode zur Diagnose von COVID-19 ist der Polymerase-Kettenreaktionstest (PCR), der das genetische Material des Coronavirus in einem Nasen- oder Rachenabstrich nachweist. Nun hat eine Umfrage unter mehr als 15.000 Personen herausgefunden, welche Personen bei dem Test am wahrscheinlichsten falsch negativ ausfallen.
